@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/drawable/circleshape1_timerview.xml" value="0.16111111111111112" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/drawable/circleshape_timerview.xml" value="0.16111111111111112" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/drawable/close.xml" value="0.2243421052631579" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2243421052631579" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2243421052631579" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/drawable/shape_size.xml" value="0.34974358974358977" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/font/advent_pro_semibold.xml" value="0.16111111111111112" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout-large/activity_main.xml" value="0.264" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout-normal/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout-small/activity_main.xml" value="0.3233695652173913" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout-xlarge/activity_main.xml" value="0.2" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/activity_five.xml" value="0.21414473684210528" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/activity_how.xml" value="0.24385245901639344" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/activity_long.xml" value="0.21414473684210528" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/activity_main.xml" value="0.2368659420289855" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/activity_splash.xml" value="0.3013888888888889" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/rewar2.xml" value="0.2" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/layout/reward.xml" value="0.264" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2243421052631579" />
+        <entry key="..\:/Android_projects/Admob/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2243421052631579" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+
+    android:background="@color/Light_white"
+    android:layout_height="match_parent"
+    tools:context="com.hustlestudio.admob.FiveActivity">
+
+    <soup.neumorphism.NeumorphFloatingActionButton
+        android:id="@+id/basin"
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+
+        android:layout_centerInParent="true"
+        app:neumorph_shapeType="basin"
+        tools:ignore="SpeakableTextPresentCheck" />
+
+    <soup.neumorphism.NeumorphFloatingActionButton
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:layout_centerInParent="true"
+        app:neumorph_shapeType="flat"
+        android:id="@+id/presed"
+
+        />
+
+    <soup.neumorphism.NeumorphButton
+        android:id="@+id/Start"
+        android:layout_width="130dp"
+        android:layout_height="80dp"
+
+        android:layout_below="@id/progressbar_timerview"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:gravity="center"
+        android:text="Start"
+        android:textColor="#1ce4eb"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/twentyFive"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:fontFamily="@font/advent_pro_semibold"
+        android:text="05:00"
+        android:textColor="@color/dark_white"
+        android:textSize="24sp" />
+
+
+    <ProgressBar
+        android:id="@+id/progressbar_timerview"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="340dp"
+        android:layout_height="340dp"
+        android:layout_centerInParent="true"
+        android:layout_gravity="center_horizontal|bottom"
+        android:indeterminate="false"
+        android:progressDrawable="@drawable/circleshape_timerview" />
+
+    <ProgressBar
+        android:id="@+id/progressbar1_timerview"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="340dp"
+        android:layout_height="340dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_horizontal|center"
+        android:indeterminate="false"
+        android:progressDrawable="@drawable/circleshape1_timerview"
+        android:visibility="gone" />
+
+
+</RelativeLayout>
